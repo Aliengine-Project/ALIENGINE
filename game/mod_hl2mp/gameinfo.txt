@@ -66,6 +66,8 @@
 			game				|all_source_engine_paths|hl2mp
 			game				|all_source_engine_paths|hl2
 			platform			|all_source_engine_paths|platform
+			game		"C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike"
+			game		"C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike\cstrike\cstrike_pak_dir.vpk"
 		}
 	}
 }
