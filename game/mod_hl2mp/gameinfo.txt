@@ -1,8 +1,8 @@
 "GameInfo"
 {
-	game	"HL2MP (AI FIXES)"
-	title	"HALF+LIFE'"
-	title2	"deathmatch"
+	game	"ALIENGINE"
+	title	"ALIENGINE"
+	title2	""
 	type multiplayer_only
 	nomodels 0
 	nohimodel 1
