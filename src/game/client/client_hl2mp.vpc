@@ -155,6 +155,20 @@ $Project "Client (HL2MP)"
 				$File	"$SRCDIR\game\shared\hl2mp\weapon_stunstick.cpp"
 			}
 
+			$Folder "Zenith"
+			{
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_357.cpp"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_egon.cpp"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_gauss.cpp"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_glock.cpp"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_hornetgun.cpp"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_mp5.h"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_rpg.cpp"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_sachel.cpp"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_sachel.h"
+				$File	"$SRCDIR\game\shared\hl1\hl1mp_weapon_shotgun.cpp"
+			}
+
 			$Folder	"UI"
 			{
 				$File	"hl2mp\ui\backgroundpanel.cpp"
